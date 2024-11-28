@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+    /* .navbar>ul {
+        border: 1px solid black;
+        width: 100%;
+
+    } */
+
+.nav-link {
+    color: black;
+}
+
+.nav-btn {
+    background-color: red;
+    color: rgb(255, 255, 0);
+    border-radius: 0px;
+
+}
+
+
+.btn-style {
+    width: 60%;
+    color: yellow;
+}
+
+.left-sctn {
+    margin-top: 40px;
+}
+
+.form-sect {
+    width: 35%;
+    color: white;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 10px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+
+}
+
+.control {
+    margin: auto;
+    width: 70%;
+    height: 40px;
+    color: aqua;
+
+}
+/* second section left  */
+
+.second-sctn-left {
+    width: 70%;
+    margin-top: 70px;
+    text-align: center;
+
+}
+
+/* second section right  */
+
+.stn-right {
+width: 50%;
+margin-left: 340px;
+margin-right: 70px;
+
+margin-top: 70px;
+
+}
+
+.second-body-img {
+    height: 350px;
+    width: 100%;
+}
+
+.heading-lft-fisrt {
+    /* border: 2px solid black; */
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 60%;
+    height: 25px;
+    font-size: smaller;
+    background-color: yellow;
+    align-items: center;
+}
+
+.heading-lft-second{
+    color: white;
+    font-size: xx-large;
+    margin-left: 50px;
+
+
+}
+
+.webinar-card {
+  background-color: #fff7f0;
+  border-radius: 10px;
+  border: 2px solid #ff0000;;
+  padding: 30px;
+  box-shadow: 0 10px #ff0000;
+}
+.highlight {
+  color: #ff0000;
+  font-weight: bold;
+}
+.webinar-date {
+  background-color: #fff;
+  padding: 15px;
+  border: 2px dashed #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+.btn-register {
+  background-color: #ff0000;
+  color: white;
+  /* font-weight: bold; */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 5px 5px px black;
+}
+.btn-register:hover {
+  background-color: #d40000;
+}
+
+.third-sctn {
+    display: flex; width: 100%; text-align: center; background-color: rgb(219, 47, 35); height: 550px;
+}
+
+.social-accounts > h2 {
+color: white;
+}
+
+.go-somewhare button {
+    border-radius: 0%;  
+    background-color: #fff7f0;
+    color: black;
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+   
+}
+
+.go-somewhare button:hover{
+    color: yellow;
+    background-color: black;
+}
+
+.go-somewhare {
+    
+    /* text-align: center; */
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 50%;
+    justify-self:center;
+    margin-top: 40px;
+
+}
+
+.footer {
+    background-color: #e83131; /* Red background */
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+    position: relative;
+}
+.footer .dotted-box {
+    border: 2px dashed white;
+    padding: 20px;
+    display: inline-block;
+    margin: 20px auto;
+}
+.footer .btn-whatsapp {
+    background-color: rgb(36, 34, 34);
+    color: yellow;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.footer .btn-whatsapp:hover {
+    background-color:black;
+}
+.footer .support-text {
+    margin-top: 20px;
+    font-size: 14px;
+}
